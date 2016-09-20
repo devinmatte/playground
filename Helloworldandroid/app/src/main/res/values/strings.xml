@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello World - Android</string>
+    <string name="second_page">Welcome to the second page!</string>
+</resources>
